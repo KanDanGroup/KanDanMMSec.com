@@ -27,14 +27,12 @@
 
 
 1. **Liu Yaqi**, Xia Chao, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，中科院1区，SCI，IF=10.856，图像处理顶级期刊)**
-  
-<image src="TIP2022.png" width="40%">
-  
-1. **Xia Chao**, Guan Qingxiao, et al. *Improved JPEG Phase-Aware Steganalysis Features Using Multiple Filter Sizes and Difference Images*. **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020, 30(11): 4100-4113. **(CCF-B，中科院1区，SCI，IF=4.685)**
+  论文链接：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697)
+  <image src="TIP2022.png" width="60%">
 
-1. TIFS
+2. **Xia Chao**, Guan Qingxiao, et al. *Improved JPEG Phase-Aware Steganalysis Features Using Multiple Filter Sizes and Difference Images*. **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020, 30(11): 4100-4113. **(CCF-B，中科院1区，SCI，IF=4.685)**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+3. TIFS
 
 
 ### 会议
@@ -45,14 +43,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### 项目
 
+1. 基于关键深度特征匹配的有约束图像拼接检测与定位研究，**国家自然科学基金青年基金**, 2022.01~2024.12，主持人：刘亚奇。
+    
+1. 少量样本对的情境下隐写分析研究，**国家自然科学基金青年基金**, 2021.01~2023.12，主持人：夏超。
 
-2. 少量样本对的情境下隐写分析研究. **国家自然科学基金青年基金**, 2021.01~2023.12.
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KanDanGroup/KanDanMMSec.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
