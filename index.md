@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## 欢迎来到看丹多媒体安全研究小组主页
 
-You can use the [editor on GitHub](https://github.com/KanDanGroup/KanDanMMSec.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 成员
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**刘亚奇**，2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院信息安全研究所，任助理研究员。
+主要研究方向为信息内容安全、多媒体取证、图像处理、人工智能、模式识别。第一作者发表CCF-A类期刊2篇（信息安全顶刊TIFS、图像处理顶刊TIP），发表SCI期刊和国际会议论文多篇，主持国家自然科学基金青年基金一项（基于关键深度特征匹配的有约束图像拼接检测与定位研究），CSIG数字媒体取证与安全专委会、CSIG视觉大数据专委会委员。
 
-### Markdown
+
+## 研究成果
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
