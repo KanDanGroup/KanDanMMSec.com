@@ -10,7 +10,8 @@
 邮箱：xiachao@besti.edu.cn
 
 ### 刘亚奇
-<image src="liuyaqi.png" width="20%">
+<image src="liuyaqi.png" width="20%"><image src="liuyaqiwechat.png" width="20%">
+
 2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院，任助理研究员。
 
 主要研究方向为信息内容安全、多媒体取证、图像处理、人工智能、模式识别。第一作者发表CCF-A类期刊2篇（信息安全顶刊TIFS、图像处理顶刊TIP），发表SCI期刊和国际会议论文多篇。主持国家自然科学基金青年基金一项。CSIG数字媒体取证与安全专委会、CSIG视觉大数据专委会委员。
