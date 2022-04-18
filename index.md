@@ -27,8 +27,12 @@
 
 
 1. **Liu Yaqi**, Xia Chao, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，中科院1区，SCI，IF=10.856，图像处理顶级期刊)**
-2. **Xia Chao**, Guan Qingxiao, et al. *Improved JPEG Phase-Aware Steganalysis Features Using Multiple Filter Sizes and Difference Images*. **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020, 30(11): 4100-4113. **(CCF-B，中科院1区，SCI，IF=4.685)**
-3. TIFS
+  
+
+  
+1. **Xia Chao**, Guan Qingxiao, et al. *Improved JPEG Phase-Aware Steganalysis Features Using Multiple Filter Sizes and Difference Images*. **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020, 30(11): 4100-4113. **(CCF-B，中科院1区，SCI，IF=4.685)**
+
+1. TIFS
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
