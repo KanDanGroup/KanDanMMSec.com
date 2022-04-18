@@ -10,7 +10,7 @@
 邮箱：xiachao@besti.edu.cn
 
 ### 刘亚奇
-![image]("https://github.com/KanDanGroup/KanDanMMSec.com/blob/gh-pages/liuyaqi.png")<image src="liuyaqiwechat.png" width="20%">
+<image src="liuyaqi.png" width="20%"></image><image src="liuyaqiwechat.png" width="20%"></image>
 
 2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院，任助理研究员。
 
@@ -26,9 +26,9 @@
 ### 期刊
 
 
-1. **Liu Yaqi**, Xia Chao, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，中科院1区，SCI，IF=10.856，图像处理顶级期刊)**
-  论文链接：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697)
-  <image src="TIP2022.png" width="60%">
+1. **Liu Yaqi**, Xia Chao, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，中科院1区，SCI，IF=10.856，图像处理顶级期刊)** 论文链接：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697)
+
+<image src="TIP2022.png" width="60%"></image>
 
 2. **Xia Chao**, Guan Qingxiao, et al. *Improved JPEG Phase-Aware Steganalysis Features Using Multiple Filter Sizes and Difference Images*. **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020, 30(11): 4100-4113. **(CCF-B，中科院1区，SCI，IF=4.685)**
 
