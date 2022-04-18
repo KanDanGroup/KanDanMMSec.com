@@ -32,7 +32,7 @@
 
 - **Xia Chao**, Guan Qingxiao, et al. *Improved JPEG Phase-Aware Steganalysis Features Using Multiple Filter Sizes and Difference Images*. **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020, 30(11): 4100-4113. **(CCF-B，中科院1区，SCI，IF=4.685)**
 
-- **Liu Yaqi**, Zhu Xiaobin, Zhao Xianfeng, Cao Yun. *Adversarial Learning for Constrained Image Splicing Detection and Localization based on Atrous Convolution*. **IEEE Transactions on Information Forensics and Security**, 2019, 14(10): 2551-2566. **(CCF-A，中科院1区，SCI，IF=7.178，信息安全顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697) - code: [GitHub](https://github.com/yaqiliu-cs/CISDL-DMAC)
+- **Liu Yaqi**, Zhu Xiaobin, Zhao Xianfeng, Cao Yun. *Adversarial Learning for Constrained Image Splicing Detection and Localization based on Atrous Convolution*. **IEEE Transactions on Information Forensics and Security (TIFS)**, 2019, 14(10): 2551-2566. **(CCF-A，中科院1区，SCI，IF=7.178，信息安全顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697) - code: [GitHub](https://github.com/yaqiliu-cs/CISDL-DMAC)
 
 <image src="TIFS2019.png" width="75%"></image>
 
