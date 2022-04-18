@@ -22,7 +22,7 @@
 ### 期刊
 
 
-1. TIP
+1. **Liu Yaqi**, Xia Chao, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection With Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，SCI 1区，IF=10.856，图像处理顶级期刊)**
 1. TCSVT
 1. TIFS
 
