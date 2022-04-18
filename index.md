@@ -4,15 +4,14 @@
 
 <table boder="0">
   <tr>
-    <td with="75%">
+    <td width="75%">
       <h1>刘亚奇</h1>
       <p><b>2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院信息安全研究所，任助理研究员。</b></p>
       <p><b>主要研究方向为信息内容安全、多媒体取证、图像处理、人工智能、模式识别。第一作者发表CCF-A类期刊2篇（信息安全顶刊TIFS、图像处理顶刊TIP），发表SCI期刊和国际会议论文多篇。主持国家自然科学基金青年基金一项（基于关键深度特征匹配的有约束图像拼接检测与定位研究）。CSIG数字媒体取证与安全专委会、CSIG视觉大数据专委会委员。</b></p>
-      <p><b></b></p>
-      <p><b></b></p>
+      <p><b>邮箱：liuyaqi@besti.edu.cn</b></p>
     </td>
-    <td with="25%">
-      <image src=liuyaqi.png" width="100%">
+    <td width="25%">
+      <image src="liuyaqi.png" width="100%">
     </td>
   </tr>
 <table>
@@ -20,25 +19,12 @@
 
 ## 研究成果
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 期刊
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+1. TIP
+1. TCSVT
+1. TIFS
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
