@@ -10,7 +10,7 @@
 邮箱：xiachao@besti.edu.cn
 
 ### 刘亚奇
-<image src="liuyaqi.png" width="20%"><image src="liuyaqiwechat.png" width="20%">
+![image]("liuyaqi.png")<image src="liuyaqiwechat.png" width="20%">
 
 2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院，任助理研究员。
 
