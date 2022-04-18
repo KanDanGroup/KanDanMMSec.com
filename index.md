@@ -26,21 +26,20 @@
 ### 期刊
 
 
-1. **Liu Yaqi**, Xia Chao, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，中科院1区，SCI，IF=10.856，图像处理顶级期刊)**
-
-论文链接：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697)
+- **Liu Yaqi**, Xia Chao, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，中科院1区，SCI，IF=10.856，图像处理顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697)
 
 <image src="TIP2022.png" width="75%"></image>
 
-2. **Xia Chao**, Guan Qingxiao, et al. *Improved JPEG Phase-Aware Steganalysis Features Using Multiple Filter Sizes and Difference Images*. **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020, 30(11): 4100-4113. **(CCF-B，中科院1区，SCI，IF=4.685)**
+- **Xia Chao**, Guan Qingxiao, et al. *Improved JPEG Phase-Aware Steganalysis Features Using Multiple Filter Sizes and Difference Images*. **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020, 30(11): 4100-4113. **(CCF-B，中科院1区，SCI，IF=4.685)**
 
-3. TIFS
+- **Liu Yaqi**, Zhu Xiaobin, Zhao Xianfeng, Cao Yun. *Adversarial Learning for Constrained Image Splicing Detection and Localization based on Atrous Convolution*. **IEEE Transactions on Information Forensics and Security**, 2019, 14(10): 2551-2566. **(CCF-A，中科院1区，SCI，IF=7.178，信息安全顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697) - code:[GitHub](https://github.com/yaqiliu-cs/CISDL-DMAC)
 
+<image src="TIP2022.png" width="75%"></image>
 
 ### 会议
 
 
-1. **Xia Chao**, Guan Qingxiao, et al. *Improving GFR Steganalysis Features by Using Gabor Symmetry and Weighted Histograms*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec)**, Philadelphia, PA, USA, 2017, 55-66. **(CCF-C，信息隐藏领域重要会议)**
+- **Xia Chao**, Guan Qingxiao, et al. *Improving GFR Steganalysis Features by Using Gabor Symmetry and Weighted Histograms*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec)**, Philadelphia, PA, USA, 2017, 55-66. **(CCF-C，信息隐藏领域重要会议)**
 
 
 ### 项目
