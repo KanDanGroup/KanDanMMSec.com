@@ -14,7 +14,7 @@
       <image src="liuyaqi.png" width="100%">
     </td>
   </tr>
-<table>
+</table>
 
   
 
