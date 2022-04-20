@@ -26,11 +26,11 @@
 ### 期刊
 
 
-- **Liu Yaqi**, Xia Chao, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，中科院1区，SCI，IF=10.856，图像处理顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697)
+- **Liu Yaqi**, **Xia Chao**, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，中科院1区，SCI，IF=10.856，图像处理顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697)
 
 <image src="TIP2022.png" width="75%"></image>
 
-- **Xia Chao**, Guan Qingxiao, et al. *Improved JPEG Phase-Aware Steganalysis Features Using Multiple Filter Sizes and Difference Images*. **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020, 30(11): 4100-4113. **(CCF-B，中科院1区，SCI，IF=4.685)**
+- **Xia Chao**, Guan Qingxiao, et al. *Improved JPEG Phase-Aware Steganalysis Features Using Multiple Filter Sizes and Difference Images*. **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020, 30(11): 4100-4113. **(CCF-B，中科院1区，SCI，IF=4.685)**- paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/8907355/)
 
 - **Liu Yaqi**, Zhu Xiaobin, Zhao Xianfeng, Cao Yun. *Adversarial Learning for Constrained Image Splicing Detection and Localization based on Atrous Convolution*. **IEEE Transactions on Information Forensics and Security (TIFS)**, 2019, 14(10): 2551-2566. **(CCF-A，中科院1区，SCI，IF=7.178，信息安全顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/8658131) - code: [GitHub](https://github.com/yaqiliu-cs/CISDL-DMAC)
 
@@ -38,15 +38,17 @@
 
 - **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng. *Copy-move forgery detection based on convolutional kernel network*. **Multimedia Tools and Applications (MTA)**, 2018, 77: 18269–18293. **(CCF-C，中科院3区，SCI，IF=2.757)** - paper：[Springer](https://link.springer.com/article/10.1007/s11042-017-5374-6)
 
+- **Xia Chao**, Guan Qingxiao, et al. *Highly accurate real-time image steganalysis based on GPU*. **Journal of Real-Time Image Processing (JRTIP)**, 2018, 14: 223–236. **(中科院3区，SCI，IF=2.358)**- paper：[Springer](https://link.springer.com/article/10.1007/s11554-016-0600-4)
+
 - **Liu Yaqi**, Zhang Xiaoyu, Zhu Xiaobin, et al. *ListNet-based object proposals ranking*. **Neurocomputing**, 2017, 267: 182-194. **(CCF-C，中科院2区，SCI，IF=5.719)** - paper：[Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0925231217310639)
 
 ### 会议
 
-- **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng, Cao Yun. *Image Forgery Localization based on Multi-Scale Convolutional Neural Networks*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec)**, Innsbruck Austria, 2018, 85-90. **(CCF-C)** - paper：[ACM](https://dl.acm.org/doi/abs/10.1145/3206004.3206010)/[arXiv](https://arxiv.org/abs/1706.07842) - code: [GitHub](https://github.com/yaqiliu-cs/forgerylocCNN-py)
+- **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng, Cao Yun. *Image Forgery Localization based on Multi-Scale Convolutional Neural Networks*. **Proceedings of the 6th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec'18)**, Innsbruck, Austria, 2018, 85-90. **(CCF-C)** - paper：[ACM](https://dl.acm.org/doi/abs/10.1145/3206004.3206010)/[arXiv](https://arxiv.org/abs/1706.07842) - code: [GitHub](https://github.com/yaqiliu-cs/forgerylocCNN-py)
 
-- **Xia Chao**, Guan Qingxiao, et al. *Improving GFR Steganalysis Features by Using Gabor Symmetry and Weighted Histograms*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec)**, Philadelphia, PA, USA, 2017, 55-66. **(CCF-C，信息隐藏领域重要会议)**
+- **Xia Chao**, Guan Qingxiao, et al. *Improving GFR Steganalysis Features by Using Gabor Symmetry and Weighted Histograms*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec'17)**, Philadelphia, PA, USA, 2017, 55-66. **(CCF-C，信息隐藏领域重要会议)**- paper：[ACM](https://dl.acm.org/doi/abs/10.1145/3082031.3083243)
 
-- **Liu Yaqi**, Cai Qiang, Zhu Xiaobin, Cao Jian, Li Haisheng. *Saliency detection using two-stage scoring*. **Proceedings of 2015 IEEE International Conference on Image Processing (ICIP)**, Quebec City, QC, Canada, 2015, 4062-4066. **(CCF-C)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/7351569)
+- **Liu Yaqi**, Cai Qiang, Zhu Xiaobin, Cao Jian, Li Haisheng. *Saliency detection using two-stage scoring*. **Proceedings of 2015 IEEE International Conference on Image Processing (ICIP'15)**, Quebec City, QC, Canada, 2015, 4062-4066. **(CCF-C)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/7351569)
 
 ### 项目
 
