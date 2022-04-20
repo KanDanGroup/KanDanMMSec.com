@@ -36,12 +36,13 @@
 
 <image src="TIFS2019.png" width="75%"></image>
 
-- **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng. *Copy-move forgery detection based on convolutional kernel network*. **Multimedia Tools and Applications (MTA)**, 2018, 77: 18269–18293. **(CCF-C，中科院4区，SCI，IF=2.757)** - paper：[Springer](https://link.springer.com/article/10.1007/s11042-017-5374-6)
+- **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng. *Copy-move forgery detection based on convolutional kernel network*. **Multimedia Tools and Applications (MTA)**, 2018, 77: 18269–18293. **(CCF-C，中科院3区，SCI，IF=2.757)** - paper：[Springer](https://link.springer.com/article/10.1007/s11042-017-5374-6)
 
 - **Liu Yaqi**, Zhang Xiaoyu, Zhu Xiaobin, et al. *ListNet-based object proposals ranking*. **Neurocomputing**, 2017, 267: 182-194. **(CCF-C，中科院2区，SCI，IF=5.719)** - paper：[Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0925231217310639)
 
 ### 会议
 
+- **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng, Cao Yun. *Image Forgery Localization based on Multi-Scale Convolutional Neural Networks*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec)**, Innsbruck Austria, 2018, 85-90. **(CCF-C)** - paper：[ACM](https://dl.acm.org/doi/abs/10.1145/3206004.3206010)/[arXiv](https://arxiv.org/abs/1706.07842)
 
 - **Xia Chao**, Guan Qingxiao, et al. *Improving GFR Steganalysis Features by Using Gabor Symmetry and Weighted Histograms*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec)**, Philadelphia, PA, USA, 2017, 55-66. **(CCF-C，信息隐藏领域重要会议)**
 
