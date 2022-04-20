@@ -38,7 +38,7 @@
 
 - **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng. *Copy-move forgery detection based on convolutional kernel network*. **Multimedia Tools and Applications (MTA)**, 2018, 77: 18269–18293. **(CCF-C，中科院4区，SCI，IF=2.757)** - paper：[Springer](https://link.springer.com/article/10.1007/s11042-017-5374-6)
 
-<image src="TIFS2019.png" width="75%"></image>
+- **Liu Yaqi**, Zhang Xiaoyu, Zhu Xiaobin, et al. *ListNet-based object proposals ranking*. **Neurocomputing**, 2017, 267: 182-194. **(CCF-C，中科院2区，SCI，IF=5.719)** - paper：[Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0925231217310639)
 
 ### 会议
 
