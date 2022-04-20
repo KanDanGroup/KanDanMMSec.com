@@ -42,7 +42,7 @@
 
 ### 会议
 
-- **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng, Cao Yun. *Image Forgery Localization based on Multi-Scale Convolutional Neural Networks*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec)**, Innsbruck Austria, 2018, 85-90. **(CCF-C)** - paper：[ACM](https://dl.acm.org/doi/abs/10.1145/3206004.3206010)/[arXiv](https://arxiv.org/abs/1706.07842)
+- **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng, Cao Yun. *Image Forgery Localization based on Multi-Scale Convolutional Neural Networks*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec)**, Innsbruck Austria, 2018, 85-90. **(CCF-C)** - paper：[ACM](https://dl.acm.org/doi/abs/10.1145/3206004.3206010)/[arXiv](https://arxiv.org/abs/1706.07842) - code: [GitHub](https://github.com/yaqiliu-cs/forgerylocCNN-py)
 
 - **Xia Chao**, Guan Qingxiao, et al. *Improving GFR Steganalysis Features by Using Gabor Symmetry and Weighted Histograms*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec)**, Philadelphia, PA, USA, 2017, 55-66. **(CCF-C，信息隐藏领域重要会议)**
 
