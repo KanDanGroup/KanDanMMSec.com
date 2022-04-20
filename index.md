@@ -18,7 +18,7 @@
 
 邮箱：liuyaqi@besti.edu.cn
 
-[刘亚奇个人主页](https://yaqiliu-cs.github.io/liuyaqi_besti.com/)
+个人主页：[刘亚奇个人主页](https://yaqiliu-cs.github.io/liuyaqi_besti.com/)
 
 
 ## 研究成果
