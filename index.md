@@ -46,6 +46,7 @@
 
 - **Xia Chao**, Guan Qingxiao, et al. *Improving GFR Steganalysis Features by Using Gabor Symmetry and Weighted Histograms*. **Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec)**, Philadelphia, PA, USA, 2017, 55-66. **(CCF-C，信息隐藏领域重要会议)**
 
+- **Liu Yaqi**, Cai Qiang, Zhu Xiaobin, Cao Jian, Li Haisheng. *Saliency detection using two-stage scoring*. **Proceedings of 2015 IEEE International Conference on Image Processing (ICIP)**, Quebec City, QC, Canada, 2015, 4062-4066. **(CCF-C)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/7351569)
 
 ### 项目
 
