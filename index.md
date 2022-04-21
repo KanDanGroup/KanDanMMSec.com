@@ -1,5 +1,7 @@
 # KanDanGroup (KDG)
 
+<image src="kdlog.png" width="30%">
+
 ## 成员
 
 ### 夏超
