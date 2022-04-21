@@ -1,6 +1,6 @@
 # KanDanGroup (KDG)
 
-<image src="kdlog.png" width="30%">
+<image src="kdlogo.png" width="30%">
 
 ## 成员
 
