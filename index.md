@@ -3,7 +3,7 @@
 ## 成员
 
 ### 夏超
-<image src="头像.png" width="25%"></image><image src="二维码.jpg" width="25%"></image>
+<image src="头像.png" width="23.5%"></image><image src="二维码.jpg" width="25%"></image>
 
 2018年6月博士毕业于中国科学院信息工程研究所，同年7月入职北京电子科技学院，任助理研究员。
 
