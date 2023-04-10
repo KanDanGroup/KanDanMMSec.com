@@ -50,6 +50,12 @@
 
 ### 会议
 
+- **Chao Xia**, **Liu Yaqi**, et al. *Steganalysis for Small-Scale Training Image Pairs with Cover-Stego Feature Difference Model*. **2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, Wuhan, China, 2022, 233-238. **(CCF-C)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/10063565)
+
+- **Liu Yaqi**, **Chao Xia**, et al. *Pyramid Copy-move Forgery Detection Using Adversarial Optimized Self Deep Matching Network*. **2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, Wuhan, China, 2022, 739-746. **(CCF-C)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/10063488)
+
+- **Liu Yaqi**, **Chao Xia**, et al. *Three-Stage Salient Object Detection based on Integrated Priors*. **2022 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)**, Penang, Malaysia, 2022, 1-4. - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/10082817)
+
 - **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng, Cao Yun. *Image Forgery Localization based on Multi-Scale Convolutional Neural Networks*. **Proceedings of the 6th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec'18)**, Innsbruck, Austria, 2018, 85-90. **(CCF-C)** - paper：[ACM](https://dl.acm.org/doi/abs/10.1145/3206004.3206010)/[arXiv](https://arxiv.org/abs/1706.07842) - code: [GitHub](https://github.com/yaqiliu-cs/forgerylocCNN-py)
 
     <image src="IH2018.png" width="55%"></image>
