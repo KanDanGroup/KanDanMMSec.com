@@ -47,6 +47,8 @@
 - **Liu Yaqi**, Zhang Xiaoyu, Zhu Xiaobin, et al. *ListNet-based object proposals ranking*. **Neurocomputing**, 2017, 267: 182-194. **(CCF-C，中科院2区，SCI，IF=5.719)** - paper：[Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0925231217310639)
 
     <image src="NEURO2017.png" width="55%"></image>
+    
+- **夏超**, **刘亚奇**, 等人. *基于非线性残差的JPEG图像隐写分析*. **通信学报**, 2023, 44(1): 142-152. - paper：[通信学报](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2023010)
 
 ### 会议
 
